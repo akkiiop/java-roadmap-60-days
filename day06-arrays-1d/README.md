@@ -1,4 +1,4 @@
-# Day 06 — 1D Arrays (First 10 Programs)
+# Day 06 — 1D Array
 
 ## 📌 Topics Covered
 - Declaring and initializing arrays
