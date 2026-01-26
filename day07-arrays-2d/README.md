@@ -1,5 +1,4 @@
-# Day 07 — 2D Arrays (First 10 Programs)
-
+# Day 07 — 2D Arrays 
 ## 📌 Topics Covered
 - Declaring and initializing 2D arrays
 - Taking matrix input using nested loops
