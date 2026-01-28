@@ -51,5 +51,3 @@
 ---
 
 
-2. Open/Import this project
-3. Navigate to:
