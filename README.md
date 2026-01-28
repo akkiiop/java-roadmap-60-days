@@ -1,4 +1,4 @@
-# ✅ Java Roadmap — 60 Days (Core Java → Spring Boot)
+# Java Roadmap — 60 Days (Core Java → Spring Boot)
 
 This repository contains my **60-Day Java Developer Roadmap** journey.
 It includes **daily Java programs, practice questions, mini projects, and backend development learning** from Core Java to Spring Boot.
