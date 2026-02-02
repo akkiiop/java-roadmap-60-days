@@ -24,5 +24,10 @@
 
 ---
 
+## 📌 Notes
+- Abstract class can have both abstract and normal methods
+- Interface supports multiple inheritance
+- Use abstraction to hide implementation
 
+---
 
